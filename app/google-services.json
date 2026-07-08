@@ -1,0 +1,96 @@
+{
+  "project_info": {
+    "project_number": "607239970175",
+    "firebase_url": "https://zaxoeucc-default-rtdb.firebaseio.com",
+    "project_id": "zaxoeucc",
+    "storage_bucket": "zaxoeucc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607239970175:android:4be41a17f71d68d2bbce4a",
+        "android_client_info": {
+          "package_name": "com.zaxo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607239970175-4anjphvqmp2g15okqmfm33cb9ahi8ms8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaxo.app",
+            "certificate_hash": "b2719b9dcb0fe460d5e25104783e7b14ae15e08e"
+          }
+        },
+        {
+          "client_id": "607239970175-4vkauve0qcathr7sln6o1a1v00slgr65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaxo.app",
+            "certificate_hash": "984376130c0ac022d816b4c19e28b443b8af357a"
+          }
+        },
+        {
+          "client_id": "607239970175-64msshq7vnft3ro75p8ef8t0q5t9hsuj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaxo.app",
+            "certificate_hash": "072e317b493be7645a7c80272cad6ce89c4458c7"
+          }
+        },
+        {
+          "client_id": "607239970175-6ctbk04hunaasq1vh7k38gvm38f7l2e1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaxo.app",
+            "certificate_hash": "ec76127b00243d1bb3feca4373799ef38765744f"
+          }
+        },
+        {
+          "client_id": "607239970175-9tkommhce7gncjft49r421ef9459b15d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaxo.app",
+            "certificate_hash": "be7b96ecea2ac6ef833a02ea6f65b6b5b95fe725"
+          }
+        },
+        {
+          "client_id": "607239970175-dmtp5t6sfmhjitf6e4nsmgr15dtu5aur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaxo.app",
+            "certificate_hash": "7da3e26074d73b381bfb21fec09e61fb0c0be4e1"
+          }
+        },
+        {
+          "client_id": "607239970175-rjfh6iad4q5r6ddmq29h3erve2vpfj58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaxo.app",
+            "certificate_hash": "76f0326c1aa5defecccfee530d33cb8e8e3c242b"
+          }
+        },
+        {
+          "client_id": "607239970175-5kdunpphpqrp7g7qrvcp52opn7131rjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJOf9cJYVFqVBrL-vi_uRhSW-xf-kX0aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607239970175-5kdunpphpqrp7g7qrvcp52opn7131rjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

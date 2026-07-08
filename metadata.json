@@ -1,0 +1,6 @@
+{
+  "name": "Zaxo",
+  "description": "Zaxo is a modern, highly secure messaging and calling application featuring a soft 3D neumorphic design and robust offline-first Room persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

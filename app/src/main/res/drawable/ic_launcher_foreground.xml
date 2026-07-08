@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Subtle dark drop shadow for the Z character -->
+    <path
+        android:pathData="M35,36 L73,36 L35,76 L73,76"
+        android:strokeWidth="15"
+        android:strokeColor="#30000000"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    
+    <!-- Crisp white foreground Z character -->
+    <path
+        android:pathData="M35,34 L73,34 L35,74 L73,74"
+        android:strokeWidth="15"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
